@@ -1,4 +1,3 @@
-```
 # 🌟 Volunteer Management System (VMS)
 
 A robust and scalable web-based platform designed to bridge the gap between organizations and graduates. This system streamlines the process of managing volunteering opportunities, tracking applications, and organizing institutional resources.
