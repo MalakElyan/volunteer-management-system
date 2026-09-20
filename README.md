@@ -15,7 +15,7 @@ The **Volunteer Management System** is a centralized solution for managing the e
 
 ---
 
-## 💡 Software Engineering &amp; Agile Methodology
+## 💡 Software Engineering & Agile Methodology
 This project was managed and delivered following the **Agile/Scrum Framework**, executing iterative development sprints with clear product backlogs, user stories, and team reviews.
 
 ---
@@ -42,10 +42,10 @@ This project was managed and delivered following the **Agile/Scrum Framework**, 
 ---
 
 ## 👥 Development Team
-* **Malak Elyan:** Backend Lead &amp; Developer.
-* **Menna Al-Bawab:** Product Owner &amp; Backend Developer.
+* **Malak Elyan:** Backend Lead & Developer.
+* **Menna Al-Bawab:** Product Owner & Backend Developer.
 * **Alaa Jouda:** Frontend Developer.
-* **Ola Nasrallah:** Scrum Master &amp; Frontend Developer.
+* **Ola Nasrallah:** Scrum Master & Frontend Developer.
 
 ---
 
@@ -57,33 +57,33 @@ This project was managed and delivered following the **Agile/Scrum Framework**, 
 
 ---
 
-## ⚙️ Installation &amp; Configuration
+## ⚙️ Installation & Configuration
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MalakElyan/volunteer-management-system.git
 
-```
+2. **Install dependencies:**
 
-1. **Install dependencies:**
-
-```
-composer install
-npm install
+  ```
+  composer install
+  npm install
 
 ```
 
-1. **Environment Configuration:**
+3. **Environment Configuration:**
   * Create a `.env` file (copy from `.env.example`).
   * Set up your database credentials in the `.env` file.
   * Generate application key: `php artisan key:generate`.
-2. **Database Migration:**
+
+    
+3. **Database Migration:**
 
 ```
 php artisan migrate
 
 ```
 
-1. **Run the Application:**
+4. **Run the Application:**
 
 ```
 php artisan serve
