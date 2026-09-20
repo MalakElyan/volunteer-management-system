@@ -59,14 +59,15 @@ This project was managed and delivered following the **Agile/Scrum Framework**, 
 
 ## ⚙️ Installation & Configuration
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/MalakElyan/volunteer-management-system.git
+```
 
 2. **Install dependencies:**
 
-  ```
-  composer install
-  npm install
+```
+composer install
+npm install
 
 ```
 
@@ -96,7 +97,4 @@ php artisan serve
 
 © 2026 Volunteer Management System Team. All rights reserved.
 
-```
-
 ---
-```
