@@ -15,6 +15,11 @@ The **Volunteer Management System** is a centralized solution for managing the e
 
 ---
 
+## 💡 Software Engineering &amp; Agile Methodology
+This project was managed and delivered following the **Agile/Scrum Framework**, executing iterative development sprints with clear product backlogs, user stories, and role-based sprint deliveries.
+
+---
+
 ## 🛠️ Core Features
 
 ### 👨‍💼 Admin Dashboard
@@ -37,10 +42,10 @@ The **Volunteer Management System** is a centralized solution for managing the e
 ---
 
 ## 👥 Development Team
-* **Malak Elyan:** Backend Lead & Developer.
-* **Menna Al-Bawab:** Product Owner & Backend Developer.
-* **Alaa Jouda:** Frontend Developer.
-* **Ola Nasrallah:** Scrum Master & Frontend Developer.
+* **Malak Elyan:** Backend Lead &amp; Developer
+* **Menna Al-Bawab:** Product Owner &amp; Backend Developer
+* **Alaa Jouda:** Frontend Developer
+* **Ola Nasrallah:** Scrum Master &amp; Frontend Developer
 
 ---
 
@@ -52,27 +57,53 @@ The **Volunteer Management System** is a centralized solution for managing the e
 
 ---
 
-## ⚙️ Installation & Configuration
+## ⚙️ Installation &amp; Configuration
+
 1. **Clone the repository:**
-git clone [https://github.com/MAla02/volunteer-management-system.git](https://github.com/MAla02/volunteer-management-system.git)
-2. Install dependencies:
+   ```bash
+   git clone https://github.com/MalakElyan/volunteer-management-system.git
+
+```
+
+2. **Install dependencies:**
+
+```
 composer install
 npm install
-3. Environment Configuration:
-* Create a .env file (copy from .env.example).
-* Set up your database credentials in the .env file.
-* Generate application key: php artisan key:generate.
-4. Database Migration:
+
+```
+
+3. **Environment Configuration:**
+  * Create a `.env` file (copy from `.env.example`).
+  * Set up your database credentials in the `.env` file.
+  * Generate application key:
+
+```
+php artisan key:generate
+
+```
+
+4. **Database Migration:**
+
+```
 php artisan migrate
-5. Run the Application:
+
+```
+
+5. **Run the Application:**
+
+```
 php artisan serve
+
+```
 
 ---
 
-🏛️ Supervised By
-Eng. Yomna Alfarra University College of Applied Sciences (UCAS)
+🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)[1]
 
 © 2026 Volunteer Management System Team. All rights reserved.
-1. **Clone the Project:**
-   ```bash
-   git clone [https://github.com/MAla02/volunteer-management-system.git](https://github.com/MAla02/volunteer-management-system.git)
+
+```
+
+---
+```
