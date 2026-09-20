@@ -1,3 +1,4 @@
+```
 # 🌟 Volunteer Management System (VMS)
 
 A robust and scalable web-based platform designed to bridge the gap between organizations and graduates. This system streamlines the process of managing volunteering opportunities, tracking applications, and organizing institutional resources.
@@ -16,7 +17,7 @@ The **Volunteer Management System** is a centralized solution for managing the e
 ---
 
 ## 💡 Software Engineering &amp; Agile Methodology
-This project was managed and delivered following the **Agile/Scrum Framework**, executing iterative development sprints with clear product backlogs, user stories, and role-based sprint deliveries.
+This project was managed and delivered following the **Agile/Scrum Framework**, executing iterative development sprints with clear product backlogs, user stories, and team reviews.
 
 ---
 
@@ -42,10 +43,10 @@ This project was managed and delivered following the **Agile/Scrum Framework**, 
 ---
 
 ## 👥 Development Team
-* **Malak Elyan:** Backend Lead &amp; Developer
-* **Menna Al-Bawab:** Product Owner &amp; Backend Developer
-* **Alaa Jouda:** Frontend Developer
-* **Ola Nasrallah:** Scrum Master &amp; Frontend Developer
+* **Malak Elyan:** Backend Lead &amp; Developer.
+* **Menna Al-Bawab:** Product Owner &amp; Backend Developer.
+* **Alaa Jouda:** Frontend Developer.
+* **Ola Nasrallah:** Scrum Master &amp; Frontend Developer.
 
 ---
 
@@ -58,14 +59,13 @@ This project was managed and delivered following the **Agile/Scrum Framework**, 
 ---
 
 ## ⚙️ Installation &amp; Configuration
-
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MalakElyan/volunteer-management-system.git
 
 ```
 
-2. **Install dependencies:**
+1. **Install dependencies:**
 
 ```
 composer install
@@ -73,24 +73,18 @@ npm install
 
 ```
 
-3. **Environment Configuration:**
+1. **Environment Configuration:**
   * Create a `.env` file (copy from `.env.example`).
   * Set up your database credentials in the `.env` file.
-  * Generate application key:
-
-```
-php artisan key:generate
-
-```
-
-4. **Database Migration:**
+  * Generate application key: `php artisan key:generate`.
+2. **Database Migration:**
 
 ```
 php artisan migrate
 
 ```
 
-5. **Run the Application:**
+1. **Run the Application:**
 
 ```
 php artisan serve
@@ -99,7 +93,7 @@ php artisan serve
 
 ---
 
-🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)[1]
+🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)
 
 © 2026 Volunteer Management System Team. All rights reserved.
 
