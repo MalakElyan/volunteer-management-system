@@ -109,8 +109,7 @@ php artisan serve
 
 ---
 
-🏛️ **Supervised By:** Eng. Yomna Alfarra — University College of Applied Sciences (UCAS)
-
+## 🔒 Copyright & Terms of Use:
 © 2026 Volunteer Management System Team. All rights reserved.
 
 ---
