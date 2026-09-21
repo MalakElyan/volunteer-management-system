@@ -10,7 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile-Scrum_Framework-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
----
 
 A robust and scalable web-based platform designed to bridge the gap between organizations and graduates. This system streamlines the process of managing volunteering opportunities, tracking applications, and organizing institutional resources.
 
