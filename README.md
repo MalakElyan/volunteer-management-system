@@ -1,13 +1,16 @@
 
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-Scrum_Framework-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white)
-
-
 # 🌟 Volunteer Management System (VMS)
+
+---
+
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile-Scrum_Framework-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
 
 A robust and scalable web-based platform designed to bridge the gap between organizations and graduates. This system streamlines the process of managing volunteering opportunities, tracking applications, and organizing institutional resources.
 
